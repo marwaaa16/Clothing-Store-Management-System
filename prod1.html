@@ -1,0 +1,51 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Product Details</title>
+    <link rel="stylesheet" href="index2.css"> <!-- تأكد من ربط ملف CSS -->
+</head>
+<body>
+
+    <header>
+        <h1>Product Details</h1>
+    </header>
+
+    <nav>
+        <ul>
+            <li><a href="index.html" class="menu-btn">Home</a></li>
+            <li><a href="product.html" class="menu-btn">Our Products</a></li>
+            <li><a href="#" id="cart-button" class="menu-btn">Shopping Cart </a></li>
+            <li><a href="checkout.html" class="menu-btn">Checkout</a></li>
+   
+        </ul>
+    </nav>
+
+    <section class="collection">
+        <div class="product">
+            <img src="robe.jpg" alt="Product Image">
+            <h2>Stylish Jacket</h2>
+            <p class="price"></p>
+            <p class="description">A high-quality stylish jacket that keeps you warm and fashionable.</p>
+            
+           
+        </div>
+        
+    </section>
+    <div class="cart-overlay">
+        <div class="cart-header">
+            <h2>Shopping Cart</h2>
+            <button id="close-cart">✖️</button>
+        </div>
+        <ul class="cart-items"></ul>
+        <div class="cart-footer">
+            <p id="total-price">Total: 0 DA</p>
+            <button>Buying (:
+            </button>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
