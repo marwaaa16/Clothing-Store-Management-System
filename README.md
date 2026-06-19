@@ -188,7 +188,6 @@ UI Effects
 | Name | GitHub |
 |------|--------|
 | [Maroua] | [@marwaaa16 marwaoudj](https://github.com/marwaaa16) |
-
 | [Lina] | [@lyna-dev](https://github.com/lyna-dev) |
 
 ---
