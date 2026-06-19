@@ -47,6 +47,10 @@ Crypto API| Secure SHA-256 password hashing
 
 📂 Project Structure
 
+## 📂 Project Structure
+
+## 📂 Project Structure
+
 Clothing-Store-Management-System
 │
 ├── index.html
@@ -68,9 +72,7 @@ Clothing-Store-Management-System
 ├── script.js
 │
 └── README.md
-
 ---
-
 ✨ Features
 
 👤 User Features
