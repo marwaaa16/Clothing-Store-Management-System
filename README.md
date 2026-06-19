@@ -47,8 +47,6 @@ Crypto API| Secure SHA-256 password hashing
 
 📂 Project Structure
 
-## 📂 Project Structure
-
 Clothing-Store-Management-System
 │
 ├── index.html
@@ -70,7 +68,9 @@ Clothing-Store-Management-System
 ├── script.js
 │
 └── README.md
+
 ---
+
 ✨ Features
 
 👤 User Features
@@ -188,6 +188,7 @@ UI Effects
 | Name | GitHub |
 |------|--------|
 | [Maroua] | [@marwaaa16 marwaoudj](https://github.com/marwaaa16) |
+
 | [Lina] | [@lyna-dev](https://github.com/lyna-dev) |
 
 ---
